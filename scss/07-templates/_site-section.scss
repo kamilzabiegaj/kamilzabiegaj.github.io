@@ -1,4 +1,9 @@
 .site-section {
     min-height: 70vh;
     padding-top: 3.5rem;
+
+    &--bg-color {
+        background-color: $color-bg-section;
+    }
+
 }
